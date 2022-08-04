@@ -33,7 +33,7 @@ body{
 .image{
     width: 260px;
     height: 260px;
-    background: url(images/image-qr-code.png);
+    background: url(image-qr-code.png);
     background-position: center;
     background-size: cover;
     margin: 20px auto;
